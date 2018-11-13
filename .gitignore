@@ -3,3 +3,10 @@
 ################################################################################
 
 /AS.PIMA.Reports/AS.PIMA.Reports/bin/Debug/netstandard2.0
+/AS.PIMA.Reports/AS.PIMA.Reports/obj
+/AS.PIMA.Reports/AS.PIMA.Reports.Android/bin/Debug
+/AS.PIMA.Reports/AS.PIMA.Reports.Android/obj
+*.user
+/AS.PIMA.Reports/AS.PIMA.Reports.iOS/bin/iPhoneSimulator/Debug
+/AS.PIMA.Reports/AS.PIMA.Reports.iOS/obj
+/.vs/AS.PIMA
